@@ -14,9 +14,7 @@
 
 * July 3, 2020 **»** [前端面试题-js相关](https://github.com/ChenBaDou/blog/issues/3)
 
-*无名，天地之始，有名，万物之母。*
-
-* July 3, 2020 **»** [前端面试题-vue相关](https://github.com/ChenBaDou/blog/issues/3)
+* July 3, 2020 **»** [前端面试题-vue相关](https://github.com/ChenBaDou/blog/issues/2)
 
 ## 2019
 
