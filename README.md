@@ -8,9 +8,15 @@
 
 ## 2020
 
+### September
+
+*今日割五城，明日割十城，然后得一夕安寝。起视四境，而秦兵又至矣。然则诸侯之地有限，暴秦之欲无厌，奉之弥繁，侵之愈急。故不战而强弱胜负已判矣。*
+
+* September 11, 2020 **»** [关于CORS跨域的一些坑](https://github.com/ChenBaDou/blog/issues/6)
+
 ### July
 
-*无名，天地之始，有名，万物之母。*
+*每一场可怕的战乱，都是群雄的盛宴。*
 
 * July 3, 2020 **»** [前端面试题-vue相关](https://github.com/ChenBaDou/blog/issues/2)
 
