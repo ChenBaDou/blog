@@ -6,6 +6,16 @@
 
 ### **[他山之石，可以攻玉。](https://chenbadou.github.io)(持续更新)**
 
+## 2021
+
+### September
+
+*花繁柳密处，拨得开，才是手段；风狂雨急时，立得定，方见脚根。*
+
+* March 9, 2021 **»** [typescript学习笔记（二）](https://github.com/ChenBaDou/blog/issues/8)
+
+* March 8, 2021 **»** [typescript学习笔记（一）](https://github.com/ChenBaDou/blog/issues/7)
+
 ## 2020
 
 ### September
