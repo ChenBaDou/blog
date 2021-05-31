@@ -12,6 +12,8 @@
 
 *人之心因道而不同，含大道者观天望地，含小道者看人看己。*
 
+* May 31, 2021 **»** [typescript学习笔记（七）](https://github.com/ChenBaDou/blog/issues/13)
+
 * May 25, 2021 **»** [typescript学习笔记（六）](https://github.com/ChenBaDou/blog/issues/12)
 
 * May 24, 2021 **»** [typescript学习笔记（五）](https://github.com/ChenBaDou/blog/issues/11)
